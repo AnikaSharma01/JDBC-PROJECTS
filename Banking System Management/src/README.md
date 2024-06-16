@@ -1,5 +1,5 @@
 # Banking System Management
-This repository contains a Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
+This repository contains a Java-based application allows to manage user accounts, perform transactions, and ensure the security of financial data through this banking application.
 
 
 ## 📂 Project Structure
