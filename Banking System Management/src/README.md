@@ -4,7 +4,6 @@ This repository contains a Java-based application allows to manage user accounts
 
 ## 📂 Project Structure
 'src/': Contains the Java source code files.
-
 'screenshots/': Screenshots of the database schema application used in the application.
 
 ## 📦 Features
